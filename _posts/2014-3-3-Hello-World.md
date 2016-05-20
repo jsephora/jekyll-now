@@ -3,8 +3,10 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+![Off-and-running](/images/running.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+So I've got my Jekyll blog up and running on GitHub Pages. People (developers) say that it is so easy and simple to set up and all, but to be honest for the average person off the street this would be near impossible to get up and running.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Just getting the Ruby Gems installed was a major hassle and all the third-party "plugins" have documentation that is written by developers using developer jargon. Seems like everything GitHub-related is like this. There is no simple and jargon-free help pages.
+
+Not only that, but when you look at StackOverflow for help, most of it is out of date. Anyway, that's my rant for now. I didn't get a good night's sleep and I'm frustrated that I couldn't get stupid Bundler working.
